@@ -8,4 +8,4 @@ Cloning the Chrome Extension **Momentum**.
 
 I've learned through [Nomad Coders](https://nomadcoders.co/). This was the final project.
 
-<img src = "/images/todo/result.gif" width=200px>
+<img src = "/images/todo/result.gif" width=400px>
