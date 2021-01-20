@@ -2,7 +2,7 @@
 
 Tools: HTML, CSS, Java Scripts
 
-Project URL: <https://github.com/markjoonho/todolist-project>
+Project URL: <https://www.joonho.dev/todolist-project>
 
 Cloning the Chrome Extension **Momentum**.
 
